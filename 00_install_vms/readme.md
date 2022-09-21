@@ -7,3 +7,4 @@
 2. Installed Windows 11 as XYZ Workstation. 
    - Installed Chocolatey
    - Setup Trusted hosts for the DC IP Address - 192.168.50.101
+3. Joined Host WS01 to xyz.com domain
